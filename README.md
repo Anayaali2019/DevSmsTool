@@ -1,6 +1,6 @@
 # **DevSmsTool**<br />
 # **DOWNLOAD HELPER**<br />
-https://github.com/Anayaali2019/DevSmsTool/raw/main/HELPERAPK.apk
+https://raw.githubusercontent.com/Anayaali2019/DevSmsTool/main/app-release.apk
 # **C# nuget Package** <br />
 Import our Nuget pack from https://www.nuget.org/packages/DevSmsTool<br />
 Call package using<br />
