@@ -14,7 +14,7 @@ Call package using<br />
 DevSmsTool.DevSmsTool.sendRequest( MSG , YOUR DEVSMSTOOL-ACCOUNT-NUMBER , Recipient-NUMBER); <br />
 <br /><br />
 # DIRECT WEBHOOK <br />
-https://devsmstool2023-c602c.web.app/?Sender=RECIPIENT&ACCOUNT=YOUR-DEVSMSTOOL-ACCOUNT-NUMBER COUNTRY&msg=DUMMYMSG
+https://devsmstool2023-c602c.web.app/?Sender=RECIPIENT&ACCOUNT=YOUR-DEVSMSTOOL-ACCOUNT-NUMBER-COUNTRY&msg=DUMMYMSG
 
 # Note:- 
 We don't save store or share any kind of your Messages
